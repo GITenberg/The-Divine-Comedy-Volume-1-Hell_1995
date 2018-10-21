@@ -29,7 +29,7 @@ by Dante Aligheri
 Translated by Charles Eliot Norton
 
 December, 1999  [Etext #1995]
-[Date last updated: April 18, 2004]
+[Date last updated: July 5, 2017]
 
 
 *The Project Gutenberg Etext of Inferno/Hell by Dante Aligheri*
@@ -497,7 +497,7 @@ If, then, the attempt be vain to reproduce the form or to
 represent its effect in a translation, yet the substance of a
 poem may have such worth that it deserves to be known by readers
 who must read it in their own tongue or not at all. In this case
-the aim of the translator should he to render the substance
+the aim of the translator should be to render the substance
 fully, exactly, and with as close a correspondence to the tone
 and style of the original as is possible between prose and
 poetry. Of the charm, of the power of the poem such a translation
@@ -524,7 +524,7 @@ natural expression of the spirit by which the poem is inspired;
 while at the same time the thought and sentiment embodied in the
 verse is of such import, and the narrative of such interest, that
 they do not lose their worth when expressed in the prose of
-another tongue; they still haye power to quicken imagination, and
+another tongue; they still have power to quicken imagination, and
 to evoke sympathy.
 
 In English there is an excellent prose translation of the
@@ -649,13 +649,13 @@ Comedy.
 
 
 The scene of the poem is the spiritual world, of which we are
-members even while still denizens mu the world of time. In the
+members even while still denizens of the world of time. In the
 spiritual world the results of sin or perverted love, and of
 virtue or right love, in this life of probation, are manifest.
 The life to come is but the fulfilment of the life that now is.
 This is the truth that Dante sought to enforce. The allegory in
 which he cloaked it is of a character that separates the Divine
-Comedy from all other works of similar intent, In The Pilgrim's
+Comedy from all other works of similar intent. In The Pilgrim's
 Progress, for example, the personages introduced are mere
 simulacra of men and women, the types of moral qualities or
 religious dispositions. They are abstractions which the genius of
@@ -729,7 +729,7 @@ Such was the general scheme of the Universe. The intention of God
 in its creation was to communicate of his own perfection to the
 creatures endowed with souls, that is, to men and to angels, and
 the proper end of every such creature was to seek its own
-perfection in likeness to time Divine. This end was attained
+perfection in likeness to the Divine. This end was attained
 through that knowledge of God of which the soul was capable, and
 through love which was in proportion to knowledge. Virtue
 depended on the free will of man; it was the good use of that
@@ -761,7 +761,7 @@ the reconciliation of man, to be finally accomplished in his
 sacrifice of Himself for them. The Roman Empire was foreordained
 and established for this end. It was to prepare the way for the
 establishment of the Roman Church. It was the appointed
-instrument for the political governument of men. Empire and
+instrument for the political government of men. Empire and
 Church were alike divine institutions for the guidance of man on
 earth.
 
@@ -875,7 +875,7 @@ the pass which never had a living person left.
 
 After I had rested a little my weary body I took my way again
 along the desert slope, so that the firm foot was always the
-lower. And ho! almost at the beginning of the steep a
+lower. And lo! almost at the beginning of the steep a
 she-leopard, light and very nimble, which was covered with a
 spotted coat. And she did not move from before my face, nay,
 rather hindered so my road that to return I oftentimes had
@@ -945,7 +945,7 @@ through the eternal place where thou shalt hear the despairing
 shrieks, shalt see the ancient spirits woeful who each proclaim
 the second death. And then thou shalt see those who are contented
 in the fire, because they hope to come, whenever it may be, to the
-blessed folk; to whom if thou wilt thereafter ascend, them shall be
+blessed folk; to whom if thou wilt thereafter ascend, then shall be
 a soul more worthy than I for that. With her I will leave thee at
 my departure; for that Emperor who reigneth them above, because I
 was rebellious to His law, wills not that into His city any one
@@ -953,7 +953,7 @@ should come through me. In all parts He governs and them He reigns:
 there in His city and His lofty seat. O happy he whom thereto He
 elects!" And I to him, "Poet, I beseech thee by that God whom thou
 didst not know, in order that I may escape this ill and worse, that
-thou lead me thither whom thou now hest said, so that I may see the
+thou lead me thither whom thou now hast said, so that I may see the
 gate of St. Peter, and those whom thou makest so afflicted."
 
 
@@ -1087,7 +1087,7 @@ when he had moved on, I entered along the deep and savage road.
 
 
 CANTO III. The gate of Hell.--Virgil lends Dante in.--The
-punishment of the neither good nor bad.--Aeheron, and the sinners
+punishment of the neither good nor bad.--Acheron, and the sinners
 on its bank.--Charon.--Earthquake.--Dante swoons.
 
 "Through me is the way into the woeful city; through me is the
@@ -1680,7 +1680,7 @@ entrance to the poets.
 
 I say, continuing, that, long before we were at the foot of the
 high tower, our eyes went upward to its top because of two
-flamelets that we saw set there, and another giving sigual back
+flamelets that we saw set there, and another giving signal back
 from so far that hardly could the eye reach it. And I turned me
 to the Sea of all wisdom; I said, "This one, what says it? and
 what answers that other fire? and who are they that make it?" And
@@ -1733,7 +1733,7 @@ But on my ears there smote a wailing, whereat forward intent I
 open wide my eye. And the good Master said, "Now, son, the city
 draws near that is named Dis, with its heavy citizens, with its
 great throng." And I, "Master, already in the valley therewithin
-I clearly discern its mosques vermilion, as if issuing from
+I clearly discern its mosques vermillion, as if issuing from
 fire." And he said to me, "The eternal fire that blazes within
 them displays them red as thou seest in this nether Hell."
 
@@ -2280,7 +2280,7 @@ first, and I second." A little further on the Centaur stopped
 above some folk who far as the throat were seen to issue from
 that boiling stream. He showed to us at one side a solitary
 shade, and said, "He cleft, in the bosom of God, the heart that
-still is honored on the Thames."[1] Then I saw folk, who out of
+still is honored on the Thames."[6] Then I saw folk, who out of
 the stream held their head, and even all their chest; and of
 these I recognized many. Thus ever more and more shallow became
 that blood, until it cooked only the feet: and here was our
@@ -3273,7 +3273,7 @@ who, after he is fixed, recalls him, in order to delay his death.
 head downwards, in a hole in which they were buried alive.
 
 
-And he[1] cried out, "Art thou already standing there? Art thoh
+And he[1] cried out, "Art thou already standing there? Art thou
 already standing there, Boniface? By several years the record
 lied to me. Art thou so quickly sated with that having, for which
 thou didst not fear to seize by guile the beautiful Lady,[2] and
@@ -3536,7 +3536,7 @@ CANTO XXI. Eighth Circle: fifth pit: barrators.--A magistrate of
 Lucca.--The Malebranche.--Parley with them.
 
 So from bridge to bridge we went, speaking other things, which my
-Comedy careth not to sing, and held the suffimit, when we stopped
+Comedy careth not to sing, and held the summit, when we stopped
 to see the next cleft of Malebolge and the next vain
 lamentations; and I saw it wonderfully dark.
 
@@ -3964,7 +3964,7 @@ In that part of the young year when the sun tempers his locks
 beneath Aquarius,[1] and now the nights decrease toward half the
 day,[2] when the hoar frost copies on the ground the image of her
 white sister,[3] but the point of her pen lasts little while, the
-rustic, whose provision fails "gets up up and sees the plain all
+rustic, whose provision fails "gets up and sees the plain all
 whitened o'er, whereat he strikes his thigh, returns indoors, and
 grumbles here and there, like the poor wretch who knows not what
 to do; again goes out and picks up hope again, seeing the world
@@ -4579,7 +4579,7 @@ Trojans,[1] and in the long war that made such high spoil of the
 rings,[2] as Livy writes, who erreth not; with those that, by
 resisting Robert Guiscard,[3] felt the pain of blows, and the
 rest whose bones are still heaped up at Ceperano,[4] where every
-Apullan was false, and there by Tagliacozzo,[5] where without
+Apullian was false, and there by Tagliacozzo,[5] where without
 arms the old Alardo conquered,--and one should show his limb
 pierced through, and one his lopped off, it would be nothing to
 equal the grisly mode of the ninth pit.
@@ -4622,7 +4622,7 @@ is true as that I speak to thee."
 [1] Cousin and son-in-law of Mahomet, and himself the head of a
 schism.
 
-[1] When the soul appears before Minos, every sin is confessed.
+[2] When the soul appears before Minos, every sin is confessed.
 See Canto V.
 
 
@@ -4637,7 +4637,7 @@ these words, then on the ground he stretched it to depart.
 
 [1] A noted heretic and reformer, who for two years maintained
 himself in Lombardy against the forces of the Pope, but finally,
-being reduced by famine in time of snow, in 1807, was taken
+being reduced by famine in time of snow, in 1307, was taken
 captive and burnt at Novara.
 
 
@@ -5016,8 +5016,9 @@ Dante does, to one
   Is able with the charge to kill and cure.
       2 Henry VI. v. i.
 
-[2] The tenth and last pit. My eyes went in the direction whence
-the sound came.
+[2] The tenth and last pit.
+
+[3] My eyes went in the direction whence the sound came.
 
 
 After the dolorous rout when Charlemagne lost the holy gest,
@@ -5027,7 +5028,7 @@ whereon I, "Master, say, what city is this?" And he to me,
 "Because too far away thou peerest through the darkness, it
 happens that thou dost err in thy imagining. Thou shalt see well,
 if thou arrivest there, how much the sense at distance is
-deceived; therefore somewhat more spur thyself on;" Then
+deceived; therefore somewhat more spur thyself on." Then
 tenderly he took me by the hand, and said, "Before we go further
 forward, in order that the fact may seem less strange to thee,
 know that they are not towers, but giants, and they are in the

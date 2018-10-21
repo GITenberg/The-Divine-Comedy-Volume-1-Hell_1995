@@ -1,5 +1,5 @@
 _repo: The-Divine-Comedy-Volume-1-Hell_1995
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Norton, Charles Eliot
@@ -39,5 +39,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Epic poetry, Italian -- Translations into English'
 - !lcsh 'Hell -- Poetry'
+- GITenberg
 title: The Divine Comedy, Volume 1, Hell
 url: http://www.gutenberg.org/ebooks/1995
